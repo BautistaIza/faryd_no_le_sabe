@@ -1,0 +1,27 @@
+main .latest {
+    text-align: center;
+}
+
+main .posts {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+}
+
+main .post {
+    border: 3px solid #e5e5e5;
+    background-color: #f3f3f3;
+    border-radius: 5px;
+    width: 15rem;
+    padding: 1rem;
+}
+
+main .post img{
+    width: 100%;
+    border-radius: 5px;
+}
+
+main .post h4 {
+    margin: 0px;
+    margin-top: 1rem;
+}
